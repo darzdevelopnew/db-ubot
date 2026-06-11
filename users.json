@@ -11,8 +11,12 @@
   },
   {
     "phoneNumber": "6289507951906",
+    "addedAt": 1781187219464,
+    "expiredAt": 1783779219464,
+    "username": "-",
+    "firstName": "-",
+    "ownerTelegramId": "8169276521",
     "addedByUserId": "8169276521",
-    "addedByUsername": "@zaslibaw",
-    "createdAt": "2026-06-11T14:13:39.354Z"
+    "addedByUsername": "@zaslibaw"
   }
 ]
