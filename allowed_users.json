@@ -1,12 +1,5 @@
 [
   {
-    "id": "7961083543",
-    "username": "@darsreal",
-    "addedBy": "@darsreal",
-    "addedById": "7961083543",
-    "expiredAt": "permanent"
-  },
-  {
     "id": "8541466607",
     "username": "@aogustt",
     "addedBy": "@darsreal",
@@ -152,5 +145,12 @@
     "addedBy": "@darsreal",
     "addedById": "7961083543",
     "expiredAt": "2026-06-12T14:55:01.438Z"
+  },
+  {
+    "id": "7961083543",
+    "username": "@darsreal",
+    "addedBy": "@darsreal",
+    "addedById": "7961083543",
+    "expiredAt": "permanent"
   }
 ]
