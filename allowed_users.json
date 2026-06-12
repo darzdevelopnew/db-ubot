@@ -147,13 +147,6 @@
     "expiredAt": "permanent"
   },
   {
-    "id": "8930203654",
-    "username": "@satriaacu",
-    "addedBy": "@LunggNEWera",
-    "addedById": "8262289427",
-    "expiredAt": "permanent"
-  },
-  {
     "id": "7133086565",
     "username": "@lanqthehe",
     "addedBy": "@darsreal",
@@ -226,6 +219,13 @@
   {
     "id": "8461760010",
     "username": "@stuvvii14",
+    "addedBy": "@darsreal",
+    "addedById": "7961083543",
+    "expiredAt": "permanent"
+  },
+  {
+    "id": "8930203654",
+    "username": "@satriaacu",
     "addedBy": "@darsreal",
     "addedById": "7961083543",
     "expiredAt": "permanent"
