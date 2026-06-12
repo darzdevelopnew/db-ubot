@@ -1,12 +1,5 @@
 [
   {
-    "id": "8541466607",
-    "username": "@aogustt",
-    "addedBy": "@darsreal",
-    "addedById": "7961083543",
-    "expiredAt": "permanent"
-  },
-  {
     "id": "1955081200",
     "username": "@nopalxtzy",
     "addedBy": "@darsreal",
@@ -184,6 +177,13 @@
   {
     "id": "7133086565",
     "username": "@lanqthehe",
+    "addedBy": "@darsreal",
+    "addedById": "7961083543",
+    "expiredAt": "permanent"
+  },
+  {
+    "id": "8541466607",
+    "username": "@aogustt",
     "addedBy": "@darsreal",
     "addedById": "7961083543",
     "expiredAt": "permanent"
