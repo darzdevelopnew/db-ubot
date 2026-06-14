@@ -18,12 +18,6 @@
     "expiredAt": "permanent"
   },
   {
-    "id": "7548353425",
-    "username": "@tuanmudaazztzy",
-    "addedBy": "@darsreal",
-    "expiredAt": "permanent"
-  },
-  {
     "id": "8262289427",
     "username": "@LunggNEWera",
     "addedBy": "@darsreal",
@@ -50,6 +44,12 @@
   {
     "id": "8557131625",
     "username": "@FANZZUTAMAA",
+    "addedBy": "@darsreal",
+    "expiredAt": "permanent"
+  },
+  {
+    "id": "7548353425",
+    "username": "@tuanmudaazztzy",
     "addedBy": "@darsreal",
     "expiredAt": "permanent"
   }
